@@ -1,0 +1,100 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "name": "Dmart",
+      "category": "Grocery",
+      "area": "Thane",
+      "start-date": "2013-12-24",
+      "end-date": "2016-05-17"
+    },
+    {
+      "id": 2,
+      "name": "Normal Meat Store",
+      "category": "Butcher",
+      "area": "Ahmednagar",
+      "start-date": "2017-04-03",
+      "end-date": "2019-08-27"
+    },
+    {
+      "id": 3,
+      "name": "24 hour medical",
+      "category": "Chemist",
+      "area": "Nashik",
+      "start-date": "2016-05-17",
+      "end-date": "2021-03-05"
+    },
+    {
+      "id": 4,
+      "name": "All-in-one Stationery",
+      "category": "Stationery shop",
+      "area": "Mumbai Suburban",
+      "start-date": "2010-11-18",
+      "end-date": "2020-08-20"
+    },
+    {
+      "id": 5,
+      "name": "Walmart",
+      "category": "Grocery",
+      "area": "Pune",
+      "start-date": "2015-09-24",
+      "end-date": "2019-12-13"
+    },
+    {
+      "id": 6,
+      "name": "Stationery Play Store",
+      "category": "Stationery shop",
+      "area": "Thane",
+      "start-date": "2010-11-18",
+      "end-date": "2022-08-08"
+    },
+    {
+      "id": 7,
+      "name": "Cakes Bakery Store",
+      "category": "Baker",
+      "area": "Solapur",
+      "start-date": "2012-02-21",
+      "end-date": "2017-08-02"
+    },
+    {
+      "id": 8,
+      "name": "My Medical Store",
+      "category": "Chemist",
+      "area": "Mumbai Suburban",
+      "start-date": "2018-06-19",
+      "end-date": "2019-04-12"
+    },
+    {
+      "id": 9,
+      "name": "Thane Bakery Stores",
+      "category": "Baker",
+      "area": "Nagpur",
+      "start-date": "2012-02-21",
+      "end-date": "2020-05-14"
+    },
+    {
+      "id": 10,
+      "name": "Always Open Butcher Store",
+      "category": "Butcher",
+      "area": "Pune",
+      "start-date": "2013-12-11",
+      "end-date": "2018-05-29"
+    },
+    {
+      "name": "Zeptop",
+      "area": "Mumbai Suburban",
+      "category": "Grocery",
+      "start-date": "2022-05-29",
+      "end-date": "2025-10-17",
+      "id": 11
+    },
+    {
+      "name": "J-Mart",
+      "area": "Ahmednagar",
+      "category": "Butcher",
+      "start-date": "2022-05-02",
+      "end-date": "2022-05-28",
+      "id": 12
+    }
+  ]
+}
